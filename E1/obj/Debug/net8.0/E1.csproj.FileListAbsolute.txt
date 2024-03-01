@@ -1,0 +1,14 @@
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\bin\Debug\net8.0\E1.exe
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\bin\Debug\net8.0\E1.deps.json
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\bin\Debug\net8.0\E1.runtimeconfig.json
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\bin\Debug\net8.0\E1.dll
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\bin\Debug\net8.0\E1.pdb
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\E1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\E1.AssemblyInfoInputs.cache
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\E1.AssemblyInfo.cs
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\E1.csproj.CoreCompileInputs.cache
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\E1.dll
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\refint\E1.dll
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\E1.pdb
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\E1.genruntimeconfig.cache
+C:\Users\IBI\Documents\Ejercicios_Prueba\E1\obj\Debug\net8.0\ref\E1.dll
